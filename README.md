@@ -1,8 +1,3 @@
-# -Agile-PM-Workflow-Cursor-
-这份部署手册旨在帮助任何用户在 **Cursor** 中快速部署 “敏捷产品经理（Agile-PM）工作流” 技能。
-
----
-
 # 🚀 Agile-PM-Workflow 部署手册 (Cursor 专属版)
 
 本手册将指导你将敏捷 PM 工作流技能注入到 Cursor AI 中，使其能够通过斜杠指令 `/` 或 `@`唤醒，并引导你完成从需求采集到 PRD 产出的全过程。
